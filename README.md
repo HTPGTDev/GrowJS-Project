@@ -1,7 +1,3 @@
-> [!NOTE]
-> I am remaking GrowJS project soon! Do join my Discord to suggest what to add.
->
-
 # GrowJS-Project
 Growtopia private server made with nodejs! 
 
